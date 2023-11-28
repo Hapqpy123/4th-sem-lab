@@ -155,8 +155,7 @@
 <script type="text/javascript">
 	var navLinks = document.getElementById("navLinks");
 	function showMenu(){
-		navLinks.styl
-		+e.right = "0";
+		navLinks.style.right = "0";
 	}
 	function hideMenu(){
 		navLinks.style.right = "-200px";
